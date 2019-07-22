@@ -11,7 +11,7 @@ sap.ui.define([
 		formatter:formatter,
 		onInit: function () {
 			var data = {
-				"Name": "SAP SE",
+				"Name": "SAP SAP",
 				"Street": "Dietmar-Hopp-Allee",
 				"HouseNumber": "16",
 				"ZIPCode": "69190",
