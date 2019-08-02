@@ -16,7 +16,7 @@ sap.ui.define([
 				"HouseNumber": "16",
 				"ZIPCode": "12345",
 				"City": "Walldorf",
-				"Country": "Germany",
+				"Country": "India",
 				"Url": "http://www.sap.com",
 				"Twitter": "@sap",
 				"Tel": "+49 6227 747474",
