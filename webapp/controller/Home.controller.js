@@ -14,7 +14,7 @@ sap.ui.define([
 				"Name": "SAP SAP",
 				"Street": "Whitefield",
 				"HouseNumber": "16",
-				"ZIPCode": "69190",
+				"ZIPCode": "12345",
 				"City": "Walldorf",
 				"Country": "Germany",
 				"Url": "http://www.sap.com",
