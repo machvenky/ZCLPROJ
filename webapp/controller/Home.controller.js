@@ -12,7 +12,7 @@ sap.ui.define([
 		onInit: function () {
 			var data = {
 				"Name": "SAP SAP",
-				"Street": "Dietmar-Hopp-Allee",
+				"Street": "Whitefield",
 				"HouseNumber": "16",
 				"ZIPCode": "69190",
 				"City": "Walldorf",
